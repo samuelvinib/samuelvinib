@@ -2,11 +2,9 @@
   🧑🏻‍💻 Welcome to my profile!
 </h1>
 
+Hello! I'm Samuel, a technology enthusiast passionate about system development. My journey in the programming world began a few years ago with robotics, and later I started working with web and mobile development. Since then, I have been exploring various languages, frameworks, and methodologies to create innovative and efficient solutions.
 
-Hello! I'm Samuel, a technology enthusiast passionate about system development. My journey in the programming world started a few years ago with robotics, and since then, I have been exploring various languages, frameworks, and methodologies to create innovative and efficient solutions.
-
-Feel free to get in touch with me. It will be a pleasure to start a conversation and assess how I can add value to your project.
-
+Feel free to get in touch with me. It will be a pleasure to start a conversation and evaluate how I can add value to your project.
 
 ----
 
