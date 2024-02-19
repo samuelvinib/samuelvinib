@@ -19,6 +19,8 @@ Feel free to get in touch with me. It will be a pleasure to start a conversation
   </a>  
 </div>  
 
+<br>
+
 ## Skills
 
 <div align="center"><br> 
@@ -40,6 +42,7 @@ Feel free to get in touch with me. It will be a pleasure to start a conversation
   
  <br>
 
+<br>
 
  ## Connect with Me
 
