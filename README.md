@@ -1,6 +1,14 @@
-<h1 align="center">
-  Samuel Vinícius Basílio
+<h1>
+  🧑🏻‍💻 Welcome to my profile!
 </h1>
+
+
+Hello! I'm Samuel, a technology enthusiast passionate about system development. My journey in the programming world started a few years ago with robotics, and since then, I have been exploring various languages, frameworks, and methodologies to create innovative and efficient solutions.
+
+Feel free to get in touch with me. It will be a pleasure to start a conversation and assess how I can add value to your project.
+
+
+----
 
 <br>
 
@@ -11,9 +19,9 @@
   </a>  
 </div>  
 
-<div align="center"><br> 
+## Skills
 
-## Habilidades
+<div align="center"><br> 
 
   <img align="center" alt="Samuel-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Samuel-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
@@ -32,9 +40,10 @@
   
  <br>
 
- <div align="center"> 
 
-  ## Contatos:
+ ## Connect with Me
+
+ <div align="center"> 
 
 <a href="https://www.linkedin.com/in/samuelvinib/" target="_blank" style="margin: 0 10px" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:samuelvinib@gmail.com" style="margin: 0 10px"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
